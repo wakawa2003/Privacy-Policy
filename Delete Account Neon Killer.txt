@@ -1,0 +1,2 @@
+You cant Delete all your information account in Neon Killer:
+Go to Setting => "Delete Account"
